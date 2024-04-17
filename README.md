@@ -1,4 +1,4 @@
-# saga
+# Saga Pattern 
 step-by-step guide to implementing a Saga pattern in Java
 
 Step 1: Define the services involved in the Saga
